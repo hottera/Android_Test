@@ -23,4 +23,13 @@ public class MainActivity extends AppCompatActivity {
     //test commit
 
     //test commit from asus vivobook
+
+
+
+
+
+    //here is the code form the TestBranch
+    public void fooTestBranch(){
+        System.out.println("I came from the testBranch");
+    }
 }
