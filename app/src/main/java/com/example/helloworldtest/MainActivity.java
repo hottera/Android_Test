@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
     public void fooTestBranch(){
         System.out.println("I came from the testBranch");
     }
-=======
     //I came back create a new branch and wrote a function below - but only in the new branch
 
 }
