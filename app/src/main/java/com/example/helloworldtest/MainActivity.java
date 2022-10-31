@@ -23,4 +23,7 @@ public class MainActivity extends AppCompatActivity {
     //test commit
 
     //test commit from asus vivobook
+
+    //I came back create a new branch and wrote a function below - but only in the new branch
+
 }
